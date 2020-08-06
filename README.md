@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```javascript
-const jman = {
+const jssmntll = {
     pronoums: "Margarito",
     code: ["Javascript", "Python", "PHP"],
     askMeAbout: ["Web dev", "Tech", "Movies", "TV Shows"],
