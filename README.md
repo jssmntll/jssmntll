@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!!
 
 <!--
 **jssmntll/jssmntll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```javascript
+const jman = {
+    pronoums: "Margarito",
+    code: ["Javascript", "Python", "PHP"],
+    askMeAbout: ["Web dev", "Tech", "Movies", "TV Shows"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue"],
+            css: ["CSS3", "Bootstrap"]
+        },
+        backEnd: {
+            php: ["Laravel"],
+            js: ["Node","Express"],
+            python: ["flask"]
+        },
+        databases: ["Mongo", "MySql"]
+    },
+    currentlyLearning: ["Svelte", "Golang"]
+};
+```
