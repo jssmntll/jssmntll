@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ```javascript
 const jssmntll = {
-    pronoums: "Margarito",
     code: ["Javascript", "Python", "PHP"],
     askMeAbout: ["Web dev", "Tech", "Movies", "TV Shows"],
     technologies: {
