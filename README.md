@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 ```javascript
 const jssmntll = {
     code: ["Javascript", "Python", "PHP"],
-    askMeAbout: ["Web dev", "Tech", "Movies", "TV Shows"],
+    askMeAbout: ["Development", "Tech", "Movies", "TV Shows"],
     technologies: {
-        frontEnd: {
-            js: ["Vue"],
-            css: ["CSS3", "Bootstrap"]
-        },
         backEnd: {
             php: ["Laravel"],
             js: ["Node","Express"],
@@ -30,6 +26,6 @@ const jssmntll = {
         },
         databases: ["Mongo", "MySql"]
     },
-    currentlyLearning: ["Svelte", "Golang"]
+    currentlyLearning: ["Golang"]
 };
 ```
