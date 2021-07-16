@@ -20,11 +20,9 @@ const jssmntll = {
     askMeAbout: ["Development", "Tech", "Movies", "TV Shows"],
     technologies: {
         backEnd: {
-            php: ["Laravel"],
-            js: ["Node","Express"],
-            python: ["flask"]
+            php: 'Laravel'
         },
-        databases: ["Mongo", "MySql"]
+        databases: 'MySql'
     },
     currentlyLearning: ["Golang"]
 };
