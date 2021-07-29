@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ```javascript
 const jssmntll = {
-    code: ["PHP", "Python", "Javascript"],
+    code: ["PHP", "Javascript"],
     askMeAbout: ["Development", "Tech", "Movies", "TV Shows"],
     technologies: {
         backEnd: {
