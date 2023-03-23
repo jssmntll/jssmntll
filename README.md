@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 ```javascript
 const jssmntll = {
-    code: ["PHP", "Javascript"],
+    code: ["PHP"],
     askMeAbout: ["Development", "Tech", "Movies", "TV Shows"],
     technologies: {
         backEnd: {
             php: 'Laravel'
         },
-        databases: 'MySql'
+        databases: 'MySql', 'PostgreSQL'
     },
     currentlyLearning: ["Golang"]
 };
